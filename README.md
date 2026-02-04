@@ -1,6 +1,6 @@
-#swap of two variables
-a=5
-b=10
-print(a,b)
-a,b=b,a
-print(a,b)
+# PYTHON
+My Python learning journey
+
+print("hello world")
+print(30)
+print('g')
