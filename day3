@@ -1,0 +1,9 @@
+#input and output in python
+boy_name=input("enter boy name: ")
+girl_name=input("enter girl name: ")
+
+boy_age=int(input("enter boys age: "))
+girl_age=int(input("enter girl age: "))
+
+#formatted string
+print(f"{boy_name} is {boy_age} . {girl_name} is {girl_age}")
