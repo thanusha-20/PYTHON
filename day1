@@ -1,10 +1,11 @@
-#DAY 01
+
+#  DAY 01
 #my python learning journey
 print("hello world")
 print(30)
 print(a)
 
-#DAY 02
+#  DAY 02
 #swap of two variables
   
 a=5
@@ -12,3 +13,15 @@ b=10
 print(a,b)
 a,b=b,a
 print(a,b)
+
+# DAY 03
+#input and output in python
+boy_name=input("enter boy name: ")
+girl_name=input("enter girl name: ")
+
+boy_age=int(input("enter boys age: "))
+girl_age=int(input("enter girl age: "))
+
+#formatted string
+print(f"{boy_name} is {boy_age} . {girl_name} is {girl_age}")
+
