@@ -1,0 +1,28 @@
+
+# DAY 05
+#operators 
+#logical operator
+num1=len(input("enter a number1:"))
+num2=len(input("enter a number2"))
+
+if(num1>10 and num2>10):     
+ print("true")
+else:
+  print("false")
+
+
+#comparison operator
+a=len(input("enter your age:"))
+
+if(a>=18):
+  print("you are an adult.")
+else:
+  print("you are a minor.")
+
+#comparison operator
+a=len(input("enter your age:"))
+
+if(a>=18):
+  print("you are an adult.")
+else:
+  print("you are a minor.")
